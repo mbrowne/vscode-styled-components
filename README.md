@@ -1,5 +1,7 @@
 # vscode-styled-components
 
+## NOTE: This is a fork of the official extension. See https://github.com/sandervspl/vscode-styled-components
+
 Syntax highlighting and IntelliSense for [styled-components](https://github.com/styled-components/styled-components).
 
 ![Syntax highlighting in action](demo.png)

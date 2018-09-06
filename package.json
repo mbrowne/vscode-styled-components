@@ -1,6 +1,6 @@
 {
-    "name": "vscode-styled-components",
-    "displayName": "vscode-styled-components",
+    "name": "vscode-styled-components-fork",
+    "displayName": "vscode-styled-components-FORK",
     "description": "Syntax highlighting for styled-components",
     "version": "0.0.21",
     "publisher": "jpoissonnier",
